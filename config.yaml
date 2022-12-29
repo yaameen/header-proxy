@@ -1,0 +1,9 @@
+app_port: 8080
+target:
+ host: 192.168.21.65
+ port: 443
+ scheme: https
+
+header_map:
+ app_number: app-number
+ app_version: app-version

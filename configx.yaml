@@ -1,0 +1,9 @@
+app_port: 8080
+
+target:
+  host: mihaaru.com
+  scheme: https
+
+header_map:
+  app_number: app-number
+  app_version: app-version
